@@ -1,0 +1,6 @@
+uri,dc.identifier,notation,prefLabel,altLabel,broader,broaderTransitive,broadMatch,changeNote,closeMatch,definition,editorialNote,exactMatch,example,hiddenLabel,historyNote,inScheme,mappingRelation,note,related,relatedMatch,scopeNote,semanticRelation,topConceptOf
+conceptscheme:leesgroep,be.vlaanderen.bodemenondergrond.data.id.conceptscheme.leesgroep,,Conceptschema leesgroep.,,,,,,,Indicatie van leesgroep.,,,,,,,,,,,,,
+concept:dovpartners,be.vlaanderen.bodemenondergrond.data.id.concept.leesgroep.dovpartners,dovpartners,"dov partners",,,,,,,,,,,,,conceptscheme:leesgroep,,,,,,,conceptscheme:leesgroep
+concept:cmon,be.vlaanderen.bodemenondergrond.data.id.concept.leesgroep.cmon,cmon,"Koolstof monitoring",,,,,,,,,,,,,conceptscheme:leesgroep,,,,,,,conceptscheme:leesgroep
+concept:thkpfas,be.vlaanderen.bodemenondergrond.data.id.concept.leesgroep.thkpfas,thkpfas,"Tijdelijk Handelingskader PFAS",,,,,,,,,,,,,conceptscheme:leesgroep,,,,,,,conceptscheme:leesgroep
+concept:cte,be.vlaanderen.bodemenondergrond.data.id.concept.leesgroep.cte,cte,"Conventionele en toxische explosieven",,,,,,,,,,,,,conceptscheme:leesgroep,,,,,,,conceptscheme:leesgroep

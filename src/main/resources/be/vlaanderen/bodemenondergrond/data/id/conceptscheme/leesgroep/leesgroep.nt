@@ -1,0 +1,33 @@
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/leesgroep/cmon> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.leesgroep.cmon" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/leesgroep/cmon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/leesgroep/cmon> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/leesgroep> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/leesgroep/cmon> <http://www.w3.org/2004/02/skos/core#notation> "cmon" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/leesgroep/cmon> <http://www.w3.org/2004/02/skos/core#prefLabel> "Koolstof monitoring"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/leesgroep/cmon> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/leesgroep> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/leesgroep/cte> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.leesgroep.cte" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/leesgroep/cte> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/leesgroep/cte> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/leesgroep> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/leesgroep/cte> <http://www.w3.org/2004/02/skos/core#notation> "cte" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/leesgroep/cte> <http://www.w3.org/2004/02/skos/core#prefLabel> "Conventionele en toxische explosieven"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/leesgroep/cte> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/leesgroep> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/leesgroep/dovpartners> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.leesgroep.dovpartners" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/leesgroep/dovpartners> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/leesgroep/dovpartners> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/leesgroep> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/leesgroep/dovpartners> <http://www.w3.org/2004/02/skos/core#notation> "dovpartners" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/leesgroep/dovpartners> <http://www.w3.org/2004/02/skos/core#prefLabel> "dov partners"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/leesgroep/dovpartners> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/leesgroep> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/leesgroep/thkpfas> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.leesgroep.thkpfas" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/leesgroep/thkpfas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/leesgroep/thkpfas> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/leesgroep> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/leesgroep/thkpfas> <http://www.w3.org/2004/02/skos/core#notation> "thkpfas" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/leesgroep/thkpfas> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tijdelijk Handelingskader PFAS"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/leesgroep/thkpfas> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/leesgroep> .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/leesgroep> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.conceptscheme.leesgroep" .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/leesgroep> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/leesgroep> <http://www.w3.org/2004/02/skos/core#definition> "Indicatie van leesgroep."@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/leesgroep> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/leesgroep/cmon> .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/leesgroep> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/leesgroep/cte> .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/leesgroep> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/leesgroep/dovpartners> .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/leesgroep> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/leesgroep/thkpfas> .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/leesgroep> <http://www.w3.org/2004/02/skos/core#note> "Indicatie van leesgroep."@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/leesgroep> <http://www.w3.org/2004/02/skos/core#prefLabel> "Conceptschema leesgroep."@nl .
